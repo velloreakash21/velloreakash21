@@ -8,9 +8,9 @@ Build: Craft generative AI solutions like interactive chatbots and content gener
 Teach: Lead AI sessions at colleges and train professionals, simplifying LLMs and ethics.  
 Engage: Share daily AI insights on LinkedIn, sparking global conversations.
 
-👀 Interests: Multimodal AI trends, community tech, and storytelling for impact.
-🌱 Learning: Advanced LLM fine-tuning and scalable automation.
-💞️ Collaborate: On AI projects or workshops—let’s connect!
+👀 Interests: Multimodal AI trends, community tech, and storytelling for impact. \n
+🌱 Learning: Advanced LLM fine-tuning and scalable automation. \nn
+💞️ Collaborate: On AI projects or workshops—let’s connect! \n
 📫 Reach Me: velloreakash21@gmail.com | +91-9490258654  
 
 Motto: "AI empowers through stories—let’s write the next chapter."
