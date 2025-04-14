@@ -1,13 +1,17 @@
 Vellore Akash
 Generative AI Enthusiast | Automation Expert | AI Evangelist
 👋 Hi, I’m @velloreakash21, a 6+ year AI innovator passionate about building chatbots, automation tools, and sharing AI’s potential. I’ve inspired thousands through college seminars and professional workshops, making complex tech accessible.
-🌟 What I Do:  
 
+🌟 What I Do:  
 Build: Craft generative AI solutions like interactive chatbots and content generators.  
 Teach: Lead AI sessions at colleges and train professionals, simplifying LLMs and ethics.  
 Engage: Share daily AI insights on LinkedIn, sparking global conversations.
 
-👀 Interests: Multimodal AI trends, community tech, and storytelling for impact.🌱 Learning: Advanced LLM fine-tuning and scalable automation.💞️ Collaborate: On AI projects or workshops—let’s connect!📫 Reach Me: velloreakash21@gmail.com | +91-9490258654  
+👀 Interests: Multimodal AI trends, community tech, and storytelling for impact.
+🌱 Learning: Advanced LLM fine-tuning and scalable automation.
+💞️ Collaborate: On AI projects or workshops—let’s connect!
+📫 Reach Me: velloreakash21@gmail.com | +91-9490258654  
+
 Motto: "AI empowers through stories—let’s write the next chapter."
 
 Technical Skills
@@ -33,13 +37,15 @@ WordPress, Adobe Photoshop, Final Cut Pro
 Agile, JIRA, Asana
 
 Certifications:  
-
-PMP, Google Generative AI Fundamentals (Dec 2023), Responsible AI
+PMP, 
+Google Generative AI Fundamentals (Dec 2023), 
+Responsible AI
 
 
 Popular Repositories
 AI-Chatbot
-Interactive Learning ToolGenAI chatbot for real-time Q&A and summaries, inspired by college session needs.  
+Interactive Learning Tool
+GenAI chatbot for real-time Q&A and summaries, inspired by college session needs.  
 
 Tech: Python, LangChain, Dify, Docker, FastAPI  
 [Private: Demo on Request]
