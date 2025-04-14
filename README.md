@@ -1,5 +1,6 @@
 Vellore Akash
 Generative AI Enthusiast | Automation Expert | AI Evangelist
+
 👋 Hi, I’m @velloreakash21, a 6+ year AI innovator passionate about building chatbots, automation tools, and sharing AI’s potential. I’ve inspired thousands through college seminars and professional workshops, making complex tech accessible.
 
 🌟 What I Do:  
