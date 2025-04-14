@@ -15,7 +15,6 @@ A 6+ year AI innovator obsessed with creating chatbots 🤖, automation tools �
 👀 **Interests:** Multimodal AI trends 🌐, community-driven tech 🤗, and impactful storytelling 📖.  
 🌱 **Learning:** Advanced LLM fine-tuning 🎛️ and scalable automation 🚀.  
 💞️ **Collaborate:** On AI projects or workshops—let’s create something epic! 🙌  
-📫 **Reach Me:** velloreakash21@gmail.com | [LinkedIn](https://
 
 System: It looks like you want to update the profile to remove the contact number and include your LinkedIn URL. Since this is an update to the previous artifact, I'll use the same `artifact_id` and incorporate the changes while keeping the rest of the content intact. Here's the revised version with the contact number removed and the LinkedIn URL added.
 
